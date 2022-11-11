@@ -1,0 +1,11 @@
+#install pip
+$ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+$ Right click in file and select Python rancher 3
+
+$ pip install gdown
+$ gdown --folder https://drive.google.com/drive/folders/1lM3L1bMZRcwfg-lzB_mDM-Ki1H57B1uJ
+
+$ brew install gdrive
+$ gdrive upload /opt/subhash.txt
+
+
